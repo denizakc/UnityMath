@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "LTMX",
+    "email": "nicolasreinhard.pro@gmail.com",
+    "url": "https://www.youtube.com/channel/UCKQp3slLtSsRCWtQz67RjYQ"
+  },
+  "displayName": "Unity.mathx",
+  "name": "com.ltmx.mathematics.mathx",
+  "repository": "github:LTMX/Unity.mathx",
+  "description": "Extension library for Unity.Mathematics",
+  "version": "1.3.11",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.burst": "1.7.3"
+  },
+  "keywords": [
+    "unity",
+    "mathematics",
+    "math",
+    "extension",
+    "extensions",
+    "ltmx",
+    "helper",
+    "utils"
+  ],
+  "license": "MIT"
+}
